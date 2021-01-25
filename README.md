@@ -8,5 +8,5 @@
 
 ### 2. [Building Serverless Web Applicaiton](https://webapp.serverlessworkshops.io/)
 
-### 3. [Serverless Application Model (SAM)](https://webapp.serverlessworkshops.io/)
+### 3. [Serverless Application Model (SAM)](https://cicd.serverlessworkshops.io/)
 
