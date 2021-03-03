@@ -10,3 +10,9 @@
 
 ### 3. [Serverless Application Model (SAM)](https://cicd.serverlessworkshops.io/)
 
+
+### Extra Lab
+
+### 1. [Stream Data Processing](https://data-processing.serverlessworkshops.io/setup.html)
+
+### 2. [Image Processing with step function](https://image-processing.serverlessworkshops.io/)
