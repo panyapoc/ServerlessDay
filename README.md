@@ -1,6 +1,6 @@
 # Serverless Immersion Day
 
-### Start Here : [Access to AWS environment 🏁](https://dashboard.eventengine.run/login)
+### Start Here : [Access to AWS environment 🏁](https://eventbox.dev)
 
 
 
